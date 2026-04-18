@@ -4,3 +4,7 @@ Soy un especilista en sistemas con experiencia en el desarrollo de software y ap
 Soy licenciado en computacion e ingles e imparto materias en el bachillerato en desarrollo de Software en el instituto nacional ernesto flores
 #Experiencia laboral:
 Cuanto con 15 años de experiencia en el area de la docencia, desde kinder, bachillerato y universidad. 
+## Cosas que me gusta hacer
+-Dormir
+-Comer
+-Volver a dormir
