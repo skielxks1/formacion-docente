@@ -1,0 +1,15 @@
+
+const readline = require('readline');
+// Configuramos la lectura desde la consola
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+
+// Hacemos la pregunta
+rl.question('¿Cuál es tu nombre? ', (respuesta) => {
+  console.log(`Hola, ${respuesta}! Bienvenido a Node.js.`);
+
+  // Cerramos la interfaz para que el programa termine
+  rl.close();
+});
