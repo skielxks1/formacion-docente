@@ -19,3 +19,6 @@ console.log(nombre.toUpperCase())
 //convertir una variable a minúsculas
 console.log(nombre.toLowerCase())
 
+let texto = "Hola desde JS";
+console.log(texto.split(" "));
+
