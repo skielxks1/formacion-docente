@@ -28,3 +28,9 @@ const mulitplicar = (a, b = 2) => {
 }
 mulitplicar(4);
 mulitplicar(4, 5);
+
+//funcion que retorna un valor
+const sumar = (a, b) => {
+    return a + b;
+}
+console.log("la suma de 4 + 5 es:", sumar(4, 5));
